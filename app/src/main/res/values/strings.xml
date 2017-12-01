@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SortingBlocksApp</string>
+    <string name="button">Button</string>
+    <string name="size">Size:</string>
+    <string name="time">Time:</string>
+    <string name="toreplace">TOReplace</string>
+    <string name="timeframe">TimeFrame</string>
+</resources>
